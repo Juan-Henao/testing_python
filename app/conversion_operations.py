@@ -8,19 +8,19 @@ def celsius_to_fahrenheit(celsius: float) -> float:
 
 
 def fahrenheit_to_celsius(fahrenheit: float) -> float:
-    """ asd """
+    """ asdsss """
 
     return (fahrenheit - 32) * 5 / 9
 
 
 def km_to_miles(km: float) -> float:
-    """ asd """
+    """ asdsss """
 
     return km * 0.621371
 
 
 def miles_to_km(miles: float) -> float:
-    """ asd """
+    """ asdssss """
 
     return miles / 0.621371
 
